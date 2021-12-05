@@ -1,4 +1,5 @@
 " vim-plug plugins
+" this is an extra line for testing emacs forge
 call plug#begin('~/.vim/plugged')
 " Git plugin
 Plug 'https://github.com/tpope/vim-fugitive.git'
